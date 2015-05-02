@@ -1,0 +1,24 @@
+{
+    "username": "sukantpalo@gmail.com", 
+    "project_name": "PaloGmailSalesforceOrg", 
+    "org_url": "", 
+    "namespace": "palo", 
+    "metadata_container": "1dci00000006tn7AAA", 
+    "environment": "production", 
+    "workspace": "/Users/sukantpalo/Documents/mavensmate", 
+    "id": "L0RADJOCA130XATZ7C004G0W5ZLVQYAD", 
+    "subscription": [
+        "AccountSharingRules", 
+        "AnalyticSnapshot", 
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "AppMenu", 
+        "ApprovalProcess", 
+        "AssignmentRules", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
