@@ -59,6 +59,7 @@
         <members>Tweet__c</members>
         <members>User</members>
         <members>Warehouse__c</members>
+        <members>Test1_c</members>
         <name>CustomObject</name>
     </types>
     <types>
